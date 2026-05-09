@@ -2,6 +2,8 @@
 
   Managing manufacturing data can feel overwhelming, especially when there are multiple plants, categories, products, and supervisors to monitor. That’s where a Manufacturing Dashboard in Excel becomes your go-to solution. This powerful, user-friendly dashboard offers real-time insights into production, cost, revenue, defects, and efficiency—all at your fingertips.
 
+Here is the [project file](https://github.com/BALAMURUGANRAMESH/Manufacturing_Plant_Project/blob/main/Manufacturing_Dashboard_Final.xlsx).
+
 ## Why Use a Manufacturing Dashboard in Excel?
 
   Manufacturing involves a lot of moving parts. Between tracking quantity produced, monitoring downtime, and calculating efficiency, you need a system that consolidates all of these into one place. An Excel-based dashboard does just that:
@@ -71,5 +73,3 @@ The Overview sheet is the control centre of the dashboard. It provides:
 * Efficiency % vs. Downtime by Category
 * Efficiency % vs. Downtime by Month
 <img width="1308" height="658" alt="image" src="https://github.com/user-attachments/assets/51a47d32-d27d-40b9-a579-2c1aa4a63371" />
-
-> Here is the [project file](https://github.com/BALAMURUGANRAMESH/Manufacturing_Plant_Project/blob/main/Manufacturing_Dashboard_Final.xlsx).
