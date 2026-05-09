@@ -37,9 +37,34 @@ The Overview sheet is the control centre of the dashboard. It provides:
 * Production Cost
 * Sales Revenue
 * Efficiency
+
+<img width="1308" height="659" alt="image" src="https://github.com/user-attachments/assets/45e2691c-d318-48b3-a962-bf7b4b18c5dc" />
+
   
 ### 4 Detailed Charts:
 * Revenue vs. Production Cost by Category
 * Quantity Produced by Plant
 * Defects by Product Category
 * Sales Revenue by Category and Month
+
+## Production Analysis
+
+* Quantity Produced by Plant
+* Quantity Produced by Product
+* Monthly Production Trend
+<img width="1308" height="660" alt="image" src="https://github.com/user-attachments/assets/b0b13c11-eaa0-4343-86ca-98993a31d10c" />
+
+## Quantity Analysis
+* Defects Distribution
+* Defects by Product and Plant
+* Defects Trend over Time
+
+## Cost & Revenue Analysis
+* Revenue by Plant
+* Revenue vs. Cost by Category
+* Monthly Revenue vs. Cost Trend
+
+## Efficiency & Downtime
+* Downtime Hours by Plant
+* Efficiency % vs. Downtime by Category
+* Efficiency % vs. Downtime by Month
