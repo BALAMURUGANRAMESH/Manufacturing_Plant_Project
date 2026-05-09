@@ -72,3 +72,4 @@ The Overview sheet is the control centre of the dashboard. It provides:
 * Efficiency % vs. Downtime by Month
 <img width="1308" height="658" alt="image" src="https://github.com/user-attachments/assets/51a47d32-d27d-40b9-a579-2c1aa4a63371" />
 
+> Here is the [project file](https://github.com/BALAMURUGANRAMESH/Manufacturing_Plant_Project/blob/main/Manufacturing_Dashboard_Final.xlsx).
