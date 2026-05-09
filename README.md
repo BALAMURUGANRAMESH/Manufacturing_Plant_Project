@@ -4,7 +4,7 @@
 
 ## Why Use a Manufacturing Dashboard in Excel?
 
-  Manufacturing involves a lot of moving parts. Between tracking quantity produced, monitoring downtime, and calculating efficiency, you need a system that consolidates everything into one place. An Excel-based dashboard does just that:
+  Manufacturing involves a lot of moving parts. Between tracking quantity produced, monitoring downtime, and calculating efficiency, you need a system that consolidates all of these into one place. An Excel-based dashboard does just that:
 
 * It simplifies complex data.
 * It provides quick visual analysis.
@@ -58,13 +58,17 @@ The Overview sheet is the control centre of the dashboard. It provides:
 * Defects Distribution
 * Defects by Product and Plant
 * Defects Trend over Time
+<img width="1308" height="657" alt="image" src="https://github.com/user-attachments/assets/adb277ab-6918-4ebe-8c09-635179456d75" />
 
 ## Cost & Revenue Analysis
 * Revenue by Plant
 * Revenue vs. Cost by Category
 * Monthly Revenue vs. Cost Trend
+<img width="1306" height="658" alt="image" src="https://github.com/user-attachments/assets/7bcc010d-a0c0-4249-9288-f47557f54551" />
 
 ## Efficiency & Downtime
 * Downtime Hours by Plant
 * Efficiency % vs. Downtime by Category
 * Efficiency % vs. Downtime by Month
+<img width="1308" height="658" alt="image" src="https://github.com/user-attachments/assets/51a47d32-d27d-40b9-a579-2c1aa4a63371" />
+
